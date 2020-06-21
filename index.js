@@ -5,7 +5,7 @@ const violeta = document.getElementById('violeta')
 const azul = document.getElementById('azul')
 const amarillo = document.getElementById('amarillo')
 const btnEmpezar = document.getElementById('btnEmpezar')
-const ULTIMO_NIVEL = 10
+const ULTIMO_NIVEL = 12
 
 
 class Juego {
