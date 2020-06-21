@@ -46,7 +46,7 @@ siguienteNivel() {
     this.subnivel = 0
     this.iluminarSecuencia()
     this.agregarEventosClick()
-
+    
 }
 
 transformarNumeroAColor(num) {
